@@ -1,7 +1,6 @@
 # AA1_Animacio_GrupoE
 
 Team Description: 
-
 --> ID Grupo
   --> Grupo E
 --> Integrantes
